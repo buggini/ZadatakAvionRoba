@@ -22,7 +22,7 @@ public class Zadatak1KreiranjeTabele {
 
 
             TableUtils.createTable(connectionSource, Roba.class);
-            TableUtils.createTable(connectionSource, Roba.class);
+            TableUtils.createTable(connectionSource,Avion.class);
 
 
 
