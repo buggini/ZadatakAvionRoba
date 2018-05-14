@@ -51,4 +51,3 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
-git remote add origin <https://github.com/buggini/ZadatakAvionRoba.git>
